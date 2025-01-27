@@ -1,0 +1,94 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+header {
+    background-color: rgb(22, 209, 147);
+    justify-content: space-between;
+    padding-inline-start: 5px;
+    padding: 30px;
+    display: flex;
+}
+
+.logo {
+    width: 180px;
+    display: flex;
+    justify-content: center;
+    padding-left: 5px;
+    margin-right: 10px;
+}
+
+.logo img {
+    width: 50%;
+    padding-left:10px;
+}
+
+header nav {
+    display: flex;
+}
+
+nav ul {
+    display: flex;
+}
+
+nav ul li {
+    list-style: none;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+    word-spacing: 5px;
+    margin-left: 50px;
+}
+
+.kool {
+    padding: 10px;
+}
+.kool button {
+    margin-right: 2rem;
+    padding: 10px 20px 10px 20px;
+    background-color: white;
+    color: red;
+    border-radius: 10px;
+    border:none;
+    font-weight: bold;
+}
+.kol {
+    background-color: hsla(0, 0%, 50%, 0.363);
+    opacity: 0.8;
+    color: rosybrown;
+}
+
+.kool1  {
+    font-size: 14px;
+    font-weight: robot;
+    padding-left: 50px;
+    justify-content: center;
+    text-align: center justify;
+}
+.kool2 {
+    padding : 50px;
+    justify-content: center;
+    text-align: center justify;
+    display: flex;
+}
+.kool3 {
+    background-color: rgba(137, 43, 226, 0.062);
+    padding-left: 50px;
+    margin-inline-start: 100px
+}
+.kool4 {
+    display: flex;
+    justify-content: center;
+    text-align: center justify;
+    margin-right: 2rem;
+    padding-bottom: 20px;
+    background-color: rgba(39, 144, 192, 0.61);
+    color: rgb(255, 0, 55);
+    border-radius: 10px;
+    border:none;
+    font-weight: bolder;
+
+}
